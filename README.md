@@ -22,5 +22,6 @@ The results show improvement of GI from 2,82 of uncalibrated press to 1,16 using
 
 # License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
 http://creativecommons.org/licenses/by-sa/4.0/
 
