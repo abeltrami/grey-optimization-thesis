@@ -8,7 +8,8 @@ _January 2022_
 
 http://hdl.handle.net/10609/138386
 
-- Thesis
+- Thesis (revision 2)
+- Thesis translated in Italian language
 - Presentation
 - Source code
 - References (*)
